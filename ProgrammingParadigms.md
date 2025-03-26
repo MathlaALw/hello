@@ -1,2 +1,1 @@
-# hello
-
+#Programming Paradigms#
